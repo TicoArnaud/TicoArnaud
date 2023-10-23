@@ -86,10 +86,6 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TicoArnaud&theme=tokyonight)
-
-
-
 
 
 
