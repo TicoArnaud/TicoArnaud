@@ -2,14 +2,9 @@
 #
 ## Connect with me:
 
-- 🔭 I’m currently study on Universidade Católica...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently study Systems Analysis and Development at Universidade Catolica de Brasilia.
+- 🌱 My last qualification was at Cesar School where I developed skills in Database, Java, Spring and data
+
 #
 ![1](https://user-images.githubusercontent.com/119428826/277354237-c0aff436-3a8d-4e8b-9350-3d6d6196bb65.jpeg)
 ## Connect with me: 
@@ -87,6 +82,8 @@
 #
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TicoArnaud&theme=tokyonight)
+
+
 
 
 
