@@ -1,12 +1,15 @@
-### Hello, i´m Thiago Arnaud 👋
+### Hi, i´m Thiago Arnaud 👋
 #
 ## Connect with me:
 
-- 🔭 I’m currently study Systems Analysis and Development at Universidade Catolica de Brasilia.
-- 🌱 My last qualification was at Cesar School where I developed skills in Database, Java, Spring and data
+- 🌱 I’m currently study Systems Analysis and Development at Universidade Catolica de Brasilia.
+- 👨‍💻 My last qualification was at Cesar School where I developed skills in Database, Java, Spring and data
+- 🔭 A heart dedicated to the new, driven by technological challenges and an insatiable curiosity.
+Discovering new obstacles to overcome is what gives me a feeling of purpose.
+Finally, I am now once again a student who was once a teacher. The almost reverse path, which returns to the best point: Starting again.
 
 #
-![1](https://user-images.githubusercontent.com/119428826/277354237-c0aff436-3a8d-4e8b-9350-3d6d6196bb65.jpeg)
+![1](https://user-images.githubusercontent.com/119428826/277518906-fb1ea15f-ec3a-469c-bbf5-4a688fdcedb6.jpg)
 ## Connect with me: 
 <div align="center">
 <a href="https://www.linkedin.com/in/thiago-arnaud-2a5359248/" target="_blank" rel="noreferrer">
@@ -38,7 +41,6 @@
     <img  alt="nodejs" height="40px" style="padding-right:10px;" src="https://pluspng.com/img-png/nodejs-logo-png-create-a-model-to-persist-data-in-a-node-js-loopback-api-from-beeman-nl-on-eggheadio-1200.png"/>
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
 <a href="https://start.spring.io/" target="_blank" rel="noreferrer">
       <img  alt="springweb" height="40px" style="padding-right:10px;" src="https://logos-download.com/wp-content/uploads/2021/01/Spring_Logo-450x450.png"/>
 </a>
@@ -67,7 +69,6 @@
 <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer">
       <img  alt="sonyvegaspro" height="40px" style="padding-right:10 px;" src="https://torrentpc.org/wp-content/uploads/2021/07/download-12.jpg" />
 </a>
-
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -79,11 +80,11 @@
 </p>
 
 ![ddddd](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TicoArnaud&theme=tokyonight)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TicoArnaud&theme=tokyonight&exclude={exclude})
 #
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TicoArnaud&theme=tokyonight)
-
 
 
 
